@@ -15,4 +15,3 @@ def names():
     nom_tab = "\t" + nom_min
     print(nom_tab)
 
-names()

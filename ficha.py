@@ -73,5 +73,5 @@ def ficha():
     print("Promedio entero: " + str(prom_ent))
     print("========================")
 
-ficha()
+
 

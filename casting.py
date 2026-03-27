@@ -12,6 +12,3 @@ def casting():
     precio_total = precio_desc * cantidad
     print("Total: " + str(precio_total))
 
-casting()
-
-

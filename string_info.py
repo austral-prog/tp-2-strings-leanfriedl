@@ -15,4 +15,3 @@ def string_info():
     print("Repetida: " + pala_re)
     print("Decorada: " + pala_de)
 
-string_info()

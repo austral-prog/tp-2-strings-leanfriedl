@@ -10,4 +10,3 @@ def slice_simple():
     print(text_2)
     print(text_low)
 
-slice_simple()

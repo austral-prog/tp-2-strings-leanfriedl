@@ -46,4 +46,3 @@ def string_methods():
     print("Linea 2")
     print("Linea 3")
 
-string_methods()

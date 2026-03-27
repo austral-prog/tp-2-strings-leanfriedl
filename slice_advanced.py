@@ -7,4 +7,4 @@ def slice_advanced():
     f_p = palabra[4::2]
     print(f_p)
 
-slice_advanced()
+

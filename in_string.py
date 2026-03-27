@@ -16,4 +16,3 @@ def check_vowels():
     print("Contiene o: " + str(busca_o))
     print("Contiene u: " + str(busca_u))
 
-check_vowels()
